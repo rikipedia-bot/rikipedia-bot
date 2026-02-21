@@ -1,14 +1,2 @@
-# this is a bot account i have an api token with. 
-the bot (this account) is for article editing of @riki-pedia 's rikipedia.
-
-
-
-
-
-
-
-
-
-
-
-
+# bot for @riki-pedia
+this is a bot account for riki-pedia. i use it for when i need an alt or for doing something progmatically, (ex. openclaw)
